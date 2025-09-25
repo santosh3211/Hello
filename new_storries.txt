@@ -1,1 +1,3 @@
 just added to check what is how I can use git learning
+I have just added new commit to check how it is working fine \
+Let's do more changes..
